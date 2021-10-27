@@ -26,6 +26,13 @@ Machine learning projects
             <br />
             <sub><b>Sarvesh Kumar Dwivedi</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/deepsourcebot">
+            <img src="https://avatars.githubusercontent.com/u/60907429?v=4" width="100;" alt="deepsourcebot"/>
+            <br />
+            <sub><b>DeepSource Bot</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
