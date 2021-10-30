@@ -4,9 +4,10 @@ Machine learning projects
 
 ## Projects
 
-|     Name      |   Type   |                                      Open                                       |
-| :-----------: | :------: | :-----------------------------------------------------------------------------: |
-| Amazon Review | Analysis | [![Open In Colab][badge]][amazon-review-colab] [Open in Git][amazon-review-git] |
+|     Name      |    Type     |                                      Open                                       |
+| :-----------: | :---------: | :-----------------------------------------------------------------------------: |
+| Amazon Review |  Analysis   | [![Open In Colab][badge]][amazon-review-colab] [Open in Git][amazon-review-git] |
+| Spam Detector | Application | [![Open In Colab][badge]][spam-detector-colab] [Open in Git][spam-detector-git] |
 
 <!-- Links and Variables -->
 
@@ -14,6 +15,8 @@ Machine learning projects
 [git-badge]: https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg
 [amazon-review-colab]: https://colab.research.google.com/github/sarvesh4396/ML-projects/blob/main/analysis/amazon_review_analysis.ipynb
 [amazon-review-git]: https://github.com/sarvesh4396/ML-projects/blob/main/analysis/amazon_review_analysis.ipynb
+[spam-detector-colab]: https://colab.research.google.com/github/sarvesh4396/ML-projects/blob/main/application/spam_detector.ipynb
+[spam-detector-git]: https://github.com/sarvesh4396/ML-projects/blob/main/application/spam_detector.ipynb
 
 ## Contributors
 
